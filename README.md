@@ -5,9 +5,9 @@ Este projeto tem como objetivo realizar a automação do site "https://devfinanc
 Nele, realizei a criação de 6 cenários principais, e criei a automação em Cypress com base nesses cenários.
 
 Funcionalidade : Cadastro
-  Como um usuário do sistema "Dev Finances"
-  Usuário quer cadastrar entradas e saídas
-  Para que ele tenha o controle de suas finanças
+Como um usuário do sistema "Dev Finances"
+Usuário quer cadastrar entradas e saídas
+Para que ele tenha o controle de suas finanças
 
 Contexto:
   Dado que o usuário possua acesso ao sistema
