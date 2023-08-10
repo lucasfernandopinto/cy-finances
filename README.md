@@ -1,6 +1,4 @@
 
-# Automação com Cypress - DEV Finances
+# Automation with Cypress - DEV Finances
 
-Olá, 
-Este projeto tem como objetivo realizar a automação do site "https://devfinance-agilizei.netlify.app", o qual consiste em um sistema para controle financeiro (entradas e saídas).
-Nele, realizei a criação de 6 cenários principais, e criei a automação em Cypress com base nesses cenários.
+Hello, this project aims to automate the website "https://devfinance-agilizei.netlify.app", which is a financial control system (income and expenses). In it, I created 6 main scenarios and developed automation using Cypress based on these scenarios.
